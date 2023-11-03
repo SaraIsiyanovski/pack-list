@@ -1,4 +1,4 @@
-This is a simple React application that helps you create and manage packing lists for your trips. You can add, edit, and remove items from your packing list and mark items as packed or unpacked.
+This is a simple React application that helps you create and manage packing lists for your trips. You can add,  and remove items from your packing list and mark items as packed or unpacked.
 
 
 ## Features
